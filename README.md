@@ -1,2 +1,2 @@
 # Hello-World
-Hello.  My name is Christopher Prost
+My name is Christopher Prost
